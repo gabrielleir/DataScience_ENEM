@@ -1,8 +1,8 @@
 # DataScience_ENEM
-This project aims to provide insights into Brazilian students and the population through an exploratory analysis of microdata from the National High School Exam (ENEM) using Python.
+Este projeto possui o objetivo de fornecer Insights sobre a população brasileira a partir de uma análise exploratória dos dados do Exame Nacional do Ensino Médio (ENEM), utilizando Python como ferramenta.
 
 ### Data Source
-All datasets can be found [here](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem). The datasets contains information about the students, their results and some informations about their family.
+Os datasetss completos podem ser encontrados [aqui](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem). As tabelas possuem informações básicas sobre os estudantes, seus resultados no exame e algumas informações sobre sua vida familiar.
 
 ###
 
